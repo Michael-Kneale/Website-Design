@@ -1,0 +1,226 @@
+/*Designed by Michael Kneale 46502289*/
+
+body {
+    margin: 100px;
+    margin-left: -12px;
+    font-family: Verdana, sans-serif;
+    background-color: #EDF5E1;
+}
+
+header {
+    
+}
+
+#heading {
+    
+}
+
+nav {
+    margin-left: 1000px;
+    margin-top: 22px;
+    position: absolute;
+    text-align: center;
+    line-height: 2;
+    width: 162px;
+    height: 145px;
+    padding-right: 34px;
+    padding-bottom: -5px;
+    background-color: #2edaff;
+    display:inline-block;
+}
+
+nav li:nth-child(odd) {
+    width: 196px;
+    margin-left: -40px;
+    background-color:rgb(127, 148, 241);
+}
+
+ul {
+    list-style-type: none;
+}
+
+h1 {
+    font-style: italic;
+    background-color: #2edaff;
+    margin-top: -60px;
+    width: 96vw;
+}
+
+hgroup {
+    margin-left: 37px;
+}
+
+#whatis {
+    width: 500px;
+    margin-left: 40px;
+    max-width: 80vw;
+}
+
+#registration {
+    line-height: 1.75;
+    margin-left: 40px;
+}
+
+footer {
+    margin-top: 50px;
+    font-size: smaller;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    width: 700px;
+    height: auto;
+    max-width: 50vw;
+}
+
+.flowtow {
+    line-height: 30px;
+    width: 810px;
+    margin-left: 40px;
+}
+
+.like-button {
+    background: url("https://png.pngitem.com/pimgs/s/521-5213489_white-youtube-like-button-png-transparent-cartoons-youtube.png") no-repeat;
+    object-fit: contain;
+    background-size: 50px, 20px;
+    width: 55px;
+    height: 50px;
+    margin-top: 20px;
+    margin-bottom: 35px;
+    font-size: 0;
+}
+
+#search-input {
+    border-radius: 4px;
+}
+
+#search-form {
+    float: right;
+    margin-top: 9px;
+    margin-left: 938px;
+    position:absolute;
+}
+
+#search-button {
+    background-color: #2edaff;
+    border-color: #3c2eff;
+    border-radius: 12px;
+    margin-left: 225px;
+    position: absolute;
+    margin-top: -29px;
+    padding: 7px;
+}
+
+#recent-users {
+    margin-left: 40px;
+}
+
+.form-submit {
+    padding-top: 12px;
+}
+
+input[type="submit"] {
+    background-color: #2edaff;
+    border-color: #2edaff;
+    padding: 5px;
+}
+
+#username-input {
+    margin-left: 20px;
+    border-radius: 4px;
+    padding-bottom: 5px;
+}
+
+#firstname-input {
+    margin-left: 14px;
+    border-radius: 4px;
+    padding-bottom: 5px;
+}
+
+#lastname-input {
+    margin-left: 16px;
+    border-radius: 4px;
+    padding-bottom: 5px;
+}
+
+#most-popular-first {
+    list-style-type: none;
+    border:#2edaff solid 10px;
+    max-width: 55vw;
+    padding-top: 35px;
+}
+
+
+
+#most-popular-second {
+    list-style-type: none;
+    border:#2edaff solid 10px;
+    max-width: 55vw;
+    padding-top: 35px;
+}
+
+#most-popular-third {
+    list-style-type: none;
+    border:#2edaff solid 10px;
+    max-width: 55vw;
+    padding-top: 35px;
+}
+
+#social-twitter {
+    list-style-type: none;
+}
+
+#social-facebook {
+    list-style-type: none;
+}
+
+#social-instagram {
+    list-style-type: none;
+}
+
+.footer-tos {
+    list-style-type: none;
+}
+
+#recent-user-list {
+    text-decoration: none;
+}
+
+#recent-user-list li {
+    margin-bottom: 10px;
+    width: 120px;
+    text-align: center;
+}
+
+.user {
+    list-style-type: none;
+    background-color:#2edaff;
+    line-height: 50px;
+    display: table;
+    border-radius: 12px;
+    text-decoration: none;
+    margin-left: -40px;
+    padding: 7px;
+}
+
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+a:active {
+    text-decoration: none;
+    color: black;
+}
